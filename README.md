@@ -1,6 +1,6 @@
 ### Hi, I'm Vany.
 
-I'm in my second year of studying computer science now. Currently I'm trying to find out which kind of programming I'm into, so I'll be adding different projects here. 
+I'm in my third year of studying computer science now. Currently I'm trying to find out which kind of programming I'm into, so I'll be adding different projects here. 
 
 Here's my telegram: @vany152
 
@@ -8,7 +8,7 @@ Here's my telegram: @vany152
 
 ### Привет, я Ваня.
 
-Я учусь на втором курсе программной инженерии. Я пытаюсь найти интересное направление в программировании, поэтому здесь будут появляться проекты на разные темы.
+Я учусь на третьем курсе программной инженерии. Я пытаюсь найти интересное направление в программировании, поэтому здесь будут появляться проекты на разные темы.
 
 Мой телеграм: @vany152
 
